@@ -9,7 +9,12 @@ a:link, a:visted {
   text-decoration: none;
 }
 
-a:hover, a:active {
+a:hover {
+  color: #f5f5f5;
+  test-decoration: none;
+}
+
+a:active {
   color: #c4c2c2;
   test-decoration: none;
 }

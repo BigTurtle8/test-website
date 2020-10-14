@@ -10,6 +10,6 @@ a:link, a:visted {
 }
 
 a:hover, a:active {
-  color: #f5f5f5;
+  color: #c4c2c2;
   test-decoration: none;
 }
